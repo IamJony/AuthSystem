@@ -1,0 +1,20 @@
+
+# Allow me to kick you when you enter the wrong password?
+#
+# true = Yes
+# false = No
+
+allow-kick: true
+# Default:  true
+
+
+# Allow UI?
+
+# true = UI Auth   (Menu)
+# false = Command Auth   (/register and /login)
+
+allow-ui: true
+# Default: true
+
+
+# pass.see   =  See Pass Command ( /as see )

@@ -1,0 +1,4 @@
+pass-empty: "§cEscribe la Contraseña"
+pass-register: "§aTe registraste Correctamente"
+pass-incorrect: "§cContraseña no Valida"
+pass-correct: "§aContraseña Correcta!"
