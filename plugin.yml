@@ -1,0 +1,5 @@
+name: AuthSystem
+version: 1.0.0
+main: Login\Login
+api: [3.0.0]
+author: YoSoyJony
